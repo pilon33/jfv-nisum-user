@@ -4,7 +4,7 @@
 Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 ### Clone the repository:
-1) git clone https://github.com/pilon33/nisum-user-jfv.git
+1) git clone https://github.com/pilon33/jfv-nisum-user.git
 
 ### Navigate into the folder
 2)$ cd nisum-test/ms-user
@@ -41,15 +41,6 @@ Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 
 ![image](https://user-images.githubusercontent.com/12847173/139636943-ac428952-5ade-4feb-91f0-b553ec6e9d72.png)
-
-###  PUT -->http://localhost:8084/user  (Token in authorization + data update user)
-
-![image](https://user-images.githubusercontent.com/12847173/139637359-1794d38d-696d-4452-a1de-bccfebc92e1b.png)
-
-
-![image](https://user-images.githubusercontent.com/12847173/139637394-3fe1d22c-95bb-4d92-9e5f-463bd59b8344.png)
-
-
 
 
 
