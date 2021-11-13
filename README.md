@@ -46,7 +46,7 @@ Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 ###  Application package distribution
 
-![image](https://user-images.githubusercontent.com/12847173/139638006-ab4fa163-7481-468a-8757-4a3e3f82fc11.png)
+![image](https://user-images.githubusercontent.com/12847173/141659142-fd1df2b3-895b-45b2-9e2c-d3e8609d67e9.png)
 
 
 
