@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nisum.test.user.NisumUserApplicationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-01T14:50:02" hostname="LAPTOP-5LM95CAR" time="0.863">
+  <properties/>
+  <testcase name="testSaveToDo" classname="com.nisum.test.user.NisumUserApplicationTests" time="0.857"/>
+  <testcase name="testGetUserByUsername" classname="com.nisum.test.user.NisumUserApplicationTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
